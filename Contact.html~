@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title> Dr. Roy Santiago | About </title>
+<title> Dr. Roy Santiago | Contact </title>
 <link rel="stylesheet" href="styles.css" type="text/css" media="screen" />
 </head>
 
@@ -15,7 +15,7 @@
 <div class="clearfix">
   <div class="column menu">
     <ul>
-            <li class=""><a href="index.html">About (me)</a></li><br>
+            <li class=""><a href="home.html">About (me)</a></li><br>
             <li><a href="Publications.html">Publications</a></li><br>
             <li><a href="Teaching.html">Teaching</a></li><br>
             <li><a href="Award and Scholarships.html">Award and Scholarships</a></li><br>
@@ -26,28 +26,20 @@
     </div>
 	
 	<div class="column content">
-    <h1 >Teaching</h1>
-    <p ><li>
-Calculus for Engineers <br>
+    <h1 >Contact</h1>
+    <p >Prof S Roy<br>
+Assistant Professor<br>
+Department of Mathematics<br>
+VIT University<br>
+Vellore, Tamilnadu, India- 632014<br><br>
+Email: sroysantiago@gmail.com<br>
+             roy.santiago@vit.ac.in<br><br>
+Mob.No: 9043665502<br>
+                 8778668852<br>
 
-</li>
-<br>
-<li>
-Applied Numerical Methods <br>
 
-</li>
-<br>
-<li>
-Applied Linear Algebra <br>
-</li>
-
-<br>
-<li>
-Applications of Differential and Difference Equations <br>
-</li>
-
-<br>
-</p>
+	</p>
+    
   </div>
  
   <div class="section">

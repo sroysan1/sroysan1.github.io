@@ -15,7 +15,7 @@
 <div class="clearfix">
   <div class="column menu">
     <ul>
-            <li class=""><a href="index.html">About (me)</a></li><br>
+            <li class=""><a href="home.html">About (me)</a></li><br>
             <li><a href="Publications.html">Publications</a></li><br>
             <li><a href="Teaching.html">Teaching</a></li><br>
             <li><a href="Award and Scholarships.html">Award and Scholarships</a></li><br>
@@ -26,28 +26,18 @@
     </div>
 	
 	<div class="column content">
-    <h1 >Teaching</h1>
+    <h1 >Awards and Scholarships</h1>
     <p ><li>
-Calculus for Engineers <br>
+	Dr. Roy Santiago was awarded the Maulana Azad National Fellowship (MANF) by UGC, India (2012-2015) for his doctoral research.
 
 </li>
 <br>
 <li>
-Applied Numerical Methods <br>
-
+	Participated in the Academic & Interaction Sessions of SCIENCE CONCLAVE: A Congregation of NOBEL LAUREATES and Eminent Scientists, at IIIT, Allahabad, November 26 -December 02, 2011.
 </li>
 <br>
-<li>
-Applied Linear Algebra <br>
-</li>
-
-<br>
-<li>
-Applications of Differential and Difference Equations <br>
-</li>
-
-<br>
-</p>
+</p></p>
+    
   </div>
  
   <div class="section">
