@@ -9,13 +9,13 @@
 <body>
     
 <div class="header">
- <img src = "titlebar.jpg">
+ <img src = "titlebar.jpg" height = "180px" width = "700px">
 </div>
 
 <div class="clearfix">
   <div class="column menu">
     <ul>
-            <li class=""><a href="index.html">About (me)</a></li><br>
+            <li class=""><a href="home.html">About (me)</a></li><br>
             <li><a href="Publications.html">Publications</a></li><br>
             <li><a href="Teaching.html">Teaching</a></li><br>
             <li><a href="Award and Scholarships.html">Award and Scholarships</a></li><br>
@@ -26,7 +26,7 @@
     </div>
 	
 	<div class="column content3">
-    <h1 >Awards and Scholarships</h1>
+    <h1 >Conferences</h1>
     <p><ol>
 	<li>
 	International Conference on Mathematical Computer Enginerring,<br> VIT University, Chennai, December 16-17, 2016.
